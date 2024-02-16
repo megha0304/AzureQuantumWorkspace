@@ -6,7 +6,7 @@
 :blush:	Azure  Copilot: https://quantum.microsoft.com/en-us/experience/quantum-c <br>
 😄 Download the Azure Quantum Training PDF here: https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fquantum%2Ftoc.json <br>
 😃 Imports: pip install azure-quantum <br>
-            https://dotnet.microsoft.com/en-us/download <br>
+           .NET :  https://dotnet.microsoft.com/en-us/download <br>
             Name: Microsoft Quantum Development Kit and Q# Extension Pack 
             Id: zetta.qsharp-extensionpack <br>
             quantum.qsharp-lang-vscode <br>
