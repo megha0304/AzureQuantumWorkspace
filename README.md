@@ -1,6 +1,6 @@
 # AzureQuantumWorkspace
-Let's Learn Quantum Coding together:
-##Links that you need : 
+# Let's Learn Quantum Coding together:
+# Links that you need 
 :smiley:	If you do not have an Azure Subscription, get it here: https://azure.microsoft.com/en-us/free/students/ <br>
 :smile:	Train yourself with Quantum Katas here: https://quantum.microsoft.com/en-us/experience/quantum-katas <br>
 :blush:	Azure  Copilot: https://quantum.microsoft.com/en-us/experience/quantum-c <br>
