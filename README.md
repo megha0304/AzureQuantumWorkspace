@@ -10,5 +10,4 @@ Let's Learn Quantum Coding together:
             Name: Microsoft Quantum Development Kit and Q# Extension Pack 
             Id: zetta.qsharp-extensionpack <br>
             quantum.qsharp-lang-vscode <br>
-
-:accessibility: Learn with Microsoft Learn : https://learn.microsoft.com/en-us/collections/o1qrbm5n5gg2?WT.mc_id=cloudskillschallenge_f3d9c2f5-8267-48f9-9390-6aa5533a2572 <br.
+:accessibility: Learn with Microsoft Learn : https://learn.microsoft.com/en-us/collections/o1qrbm5n5gg2?WT.mc_id=cloudskillschallenge_f3d9c2f5-8267-48f9-9390-6aa5533a2572 <br>
